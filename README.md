@@ -1,4 +1,4 @@
-#hyperkube
+# HyperKube
 
 Portable version of Kubernetes running inside a docker container.
 
