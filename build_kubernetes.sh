@@ -1,4 +1,5 @@
 ## Deps
+export DEBIAN_FRONTEND=noninteractive
 apt-get update
 apt-get install -y build-essential wget rsync ca-certificates
 update-ca-certificates
